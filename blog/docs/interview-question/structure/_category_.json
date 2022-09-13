@@ -1,0 +1,8 @@
+{
+  "label": "模型结构",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "此模块将带领大家通过对比论文中的公式和PaddleNLP的源码进行相关理论和实践的学习。"
+  }
+}
