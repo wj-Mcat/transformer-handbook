@@ -1,0 +1,8 @@
+{
+  "label": "进阶话题",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "在这里一起讨论Transformer中一些进阶话题，同时也欢迎大家发issue添加更多进阶话题，后期也会将讨论整理成最终解决方案。"
+  }
+}

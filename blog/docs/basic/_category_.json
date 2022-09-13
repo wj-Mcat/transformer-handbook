@@ -1,0 +1,8 @@
+{
+  "label": "模型讲解",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "通过不断拆分Transformer中的技术点从而详细介其原理"
+  }
+}
